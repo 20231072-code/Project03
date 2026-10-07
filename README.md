@@ -4,3 +4,4 @@ Team Leader : <20251070>
 Project 03 version1 completedd
 
 2nd Team Member: <Seongmin Cho>
+2nd Team Member: <20231072>
